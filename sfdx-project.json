@@ -6,6 +6,13 @@
             "package": "Restrict_Promote",
             "versionName": "ver 0.1",
             "versionNumber": "0.1.0.NEXT"
+        },
+        {
+            "path": "force-app",
+            "package": "Validation_Only",
+            "versionName": "ver 0.1",
+            "versionNumber": "0.1.0.NEXT",
+            "default": false
         }
     ],
     "name": "Restrict_Promote",
@@ -13,6 +20,7 @@
     "sfdcLoginUrl": "https://login.salesforce.com",
     "sourceApiVersion": "55.0",
     "packageAliases": {
-        "Restrict_Promote": "0Ho7Q0000008OXySAM"
+        "Restrict_Promote": "0Ho7Q0000008OXySAM",
+        "Validation_Only": "0Ho7Q0000008OY3SAM"
     }
 }
