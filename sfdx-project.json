@@ -5,7 +5,7 @@
       "default": true
     }
   ],
-  "name": "Promote_Restrict",
+  "name": "Restrict_Promote",
   "namespace": "",
   "sfdcLoginUrl": "https://login.salesforce.com",
   "sourceApiVersion": "55.0"
