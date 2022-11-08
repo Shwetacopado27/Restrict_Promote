@@ -1,3 +1,4 @@
-**/jsconfig.json
-
-**/.eslintrc.json
+**/layouts/*.layout-meta.xml
+**/triggers/**
+**/lwc/**
+**/pages/**
