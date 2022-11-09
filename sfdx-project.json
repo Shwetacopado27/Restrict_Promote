@@ -1,24 +1,24 @@
 {
-  "packageDirectories": [
-    {
-      "path": "force-app",
-      "default": true,
-      "dependencies": [
+    "packageDirectories": [
         {
-          "package": "Copado Deployer@19.24"
+            "path": "force-app",
+            "default": true,
+            "dependencies": [
+                {
+                    "package": "Copado Deployer@19.24"
+                }
+            ],
+            "package": "Validate_Promote",
+            "versionName": "ver 0.1",
+            "versionNumber": "0.1.0.NEXT"
         }
-      ]
+    ],
+    "name": "Restrict_Promote",
+    "namespace": "",
+    "sfdcLoginUrl": "https://login.salesforce.com",
+    "sourceApiVersion": "55.0",
+    "packageAliases": {
+        "Copado Deployer@19.24": "04t5p000000XdeT",
+        "Validate_Promote": "0Ho7Q0000008OYcSAM"
     }
-    
-  ],
-  "name": "Restrict_Promote",
-  "namespace": "",
-  "sfdcLoginUrl": "https://login.salesforce.com",
-  "sourceApiVersion": "55.0",
-  "packageAliases": {
-    "Copado Deployer@19.24": "04t5p000000XdeT"
-   
-  }
-
-  
 }
