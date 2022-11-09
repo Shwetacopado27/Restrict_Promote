@@ -11,8 +11,6 @@
     }
     
   ],
-
-  
   "name": "Restrict_Promote",
   "namespace": "",
   "sfdcLoginUrl": "https://login.salesforce.com",
