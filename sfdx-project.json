@@ -2,11 +2,21 @@
   "packageDirectories": [
     {
       "path": "force-app",
-      "default": true
+      "default": true,
+      "dependencies": [
+        {
+          "package": "Copado Deployer@19.24"
+        }
+      ],
+      
     }
+    
   ],
+  
   "name": "Restrict_Promote",
   "namespace": "",
   "sfdcLoginUrl": "https://login.salesforce.com",
   "sourceApiVersion": "55.0"
+
+  
 }
