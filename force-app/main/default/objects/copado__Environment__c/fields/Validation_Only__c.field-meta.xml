@@ -4,7 +4,7 @@
     <defaultValue>false</defaultValue>
     <externalId>false</externalId>
     <inlineHelpText>This field should be enabled on the source environment to enable the validation and restrict the promotion to the next environment.</inlineHelpText>
-    <label>Validation_Only</label>
+    <label>Validation_Only_from_source</label>
     <trackTrending>false</trackTrending>
     <type>Checkbox</type>
 </CustomField>
