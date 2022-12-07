@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Validation_Only__c</fullName>
+    <defaultValue>false</defaultValue>
+    <externalId>false</externalId>
+    <inlineHelpText>This field should be enabled on the source environment to enable the validation and restrict the promotion to the next environment.</inlineHelpText>
+    <label>Validation_Only_from_source</label>
+    <trackTrending>false</trackTrending>
+    <type>Checkbox</type>
+</CustomField>
