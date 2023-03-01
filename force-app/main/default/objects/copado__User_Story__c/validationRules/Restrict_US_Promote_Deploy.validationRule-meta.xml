@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ValidationRule xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Restrict_US_Promote_Deploy</fullName>
+    <active>true</active>
+    <errorConditionFormula>AND(
+				OR(
+								AND(
+												ISCHANGED(copado__Promote_and_Deploy__c),
+				        copado__Promote_and_Deploy__c
+								),
+							AND(
+											ISCHANGED(copado__Promote_Change__c),
+				       copado__Promote_Change__c
+							)
+				),
+    copado__Environment__r.Validation_Only__c = true,
+				NOT($Permission.Enable_Promote_Deploy)
+)</errorConditionFormula>
+    <errorDisplayField>copado__Promote_and_Deploy__c</errorDisplayField>
+    <errorMessage>Access restricted to promote and deploy</errorMessage>
+</ValidationRule>
