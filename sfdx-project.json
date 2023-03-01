@@ -1,29 +1,29 @@
 {
-    "packageDirectories": [
+  "packageDirectories": [
+    {
+      "path": "force-app",
+      "default": true,
+      "dependencies": [
         {
-            "path": "force-app",
-            "default": true,
-            "dependencies": [
-                {
-                    "package": "Copado Deployer@19.24"
-                }
-            ],
-            "package": "Validate_Promote",
-            "versionName": "ver 0.1",
-            "versionNumber": "0.1.0.NEXT"
+          "package": "Copado Deployer@19.24"
         }
-    ],
-    "name": "Restrict_Promote",
-    "namespace": "",
-    "sfdcLoginUrl": "https://login.salesforce.com",
-    "sourceApiVersion": "55.0",
-    "packageAliases": {
-        "Copado Deployer@19.24": "04t5p000000XdeT",
-        "Validate_Promote": "0Ho7Q0000008OYcSAM",
-        "Validate_Promote@0.1.0-1-dev1": "04t7Q000000dEeMQAU",
-        "Validate_Promote@0.1.0-2-dev1": "04t7Q000000dEtXQAU",
-        "Validate_Promote@0.1.0-3-dev1": "04t7Q000000dEtcQAE",
-        "Validate_Promote@0.2.0-1-dev1": "04t7Q000000dEvdQAE",
-        "Validate_Promote@0.2.0-2-dev1": "04t7Q000000dEvnQAE"
+      ],
+      "package": "Validate_Promote",
+      "versionName": "ver 0.1",
+      "versionNumber": "0.1.0.NEXT"
     }
+  ],
+  "name": "Restrict_Promote",
+  "namespace": "",
+  "sfdcLoginUrl": "https://login.salesforce.com",
+  "sourceApiVersion": "56.0",
+  "packageAliases": {
+    "Copado Deployer@19.24": "04t5p000000XdeT",
+    "Validate_Promote": "0Ho7Q0000008OYcSAM",
+    "Validate_Promote@0.1.0-1-dev1": "04t7Q000000dEeMQAU",
+    "Validate_Promote@0.1.0-2-dev1": "04t7Q000000dEtXQAU",
+    "Validate_Promote@0.1.0-3-dev1": "04t7Q000000dEtcQAE",
+    "Validate_Promote@0.2.0-1-dev1": "04t7Q000000dEvdQAE",
+    "Validate_Promote@0.2.0-2-dev1": "04t7Q000000dEvnQAE"
+  }
 }
