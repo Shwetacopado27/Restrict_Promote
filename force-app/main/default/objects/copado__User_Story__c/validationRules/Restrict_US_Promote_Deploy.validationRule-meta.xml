@@ -14,7 +14,7 @@
 							)
 				),
     copado__Environment__r.Validation_Only__c = true,
-				NOT($Permission.Restrict_Promote_Deploy)
+				NOT($Permission.Enable_Promote_Deploy)
 )</errorConditionFormula>
     <errorDisplayField>copado__Promote_and_Deploy__c</errorDisplayField>
     <errorMessage>Access restricted to promote and deploy</errorMessage>
