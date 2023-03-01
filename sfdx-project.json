@@ -9,16 +9,12 @@
         }
       ]
     }
-    
   ],
   "name": "Restrict_Promote",
   "namespace": "",
   "sfdcLoginUrl": "https://login.salesforce.com",
-  "sourceApiVersion": "55.0",
+  "sourceApiVersion": "56.0",
   "packageAliases": {
     "Copado Deployer@19.24": "04t5p000000XdeT"
-   
   }
-
-  
 }
