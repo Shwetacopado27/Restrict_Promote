@@ -19,6 +19,7 @@
     "sourceApiVersion": "55.0",
     "packageAliases": {
         "Copado Deployer@19.24": "04t5p000000XdeT",
-        "Promote_Validation": "0Ho7Q0000008Ob7SAE"
+        "Promote_Validation": "0Ho7Q0000008Ob7SAE",
+        "Promote_Validation@0.1.0-1-dev1": "04t7Q000000dGH5QAM"
     }
 }
