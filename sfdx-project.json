@@ -1,6 +1,13 @@
 {
     "packageDirectories": [
-      
+        {
+            "path": "force-app",
+            "default": true,
+            "dependencies": [
+                {
+                    "package": "Copado Deployer@19.24"
+                }
+            ],
             "package": "Validate_Promote",
             "versionName": "ver 0.1",
             "versionNumber": "0.1.0.NEXT"
