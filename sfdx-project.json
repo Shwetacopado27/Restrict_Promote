@@ -18,6 +18,13 @@
             "versionName": "ver 0.1",
             "versionNumber": "0.1.0.NEXT",
             "default": false
+        },
+        {
+            "path": "force-app",
+            "package": "Validation_Promote",
+            "versionName": "ver 0.1",
+            "versionNumber": "0.1.0.NEXT",
+            "default": false
         }
     ],
     "name": "Restrict_Promote",
@@ -32,6 +39,7 @@
         "Validate_Promote@0.1.0-3-dev1": "04t7Q000000dEtcQAE",
         "Validate_Promote@0.2.0-1-dev1": "04t7Q000000dEvdQAE",
         "Validate_Promote@0.2.0-2-dev1": "04t7Q000000dEvnQAE",
-        "Validate_Package": "0Ho7Q0000008OaxSAE"
+        "Validate_Package": "0Ho7Q0000008OaxSAE",
+        "Validation_Promote": "0Ho7Q0000008Ob2SAE"
     }
 }
