@@ -5,7 +5,7 @@
       "default": true,
       "dependencies": [
         {
-          "package": "Copado Deployer@20.0"
+          "package": "Copado Deployer@19.24"
         }
       ]
     }
