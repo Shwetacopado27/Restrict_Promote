@@ -12,13 +12,7 @@
             "versionName": "ver 0.1",
             "versionNumber": "0.1.0.NEXT"
         },
-        {
-            "path": "force-path",
-            "package": "Validate_Package",
-            "versionName": "ver 0.1",
-            "versionNumber": "0.1.0.NEXT",
-            "default": false
-        },
+        
         {
             "path": "force-app",
             "package": "Validation_Promote",
