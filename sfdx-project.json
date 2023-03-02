@@ -18,12 +18,8 @@
             "package": "Validation_Promote",
             "versionName": "ver 0.1",
             "versionNumber": "0.1.0.NEXT",
-            "default": true,
-            "dependencies": [
-                {
-                    "package": "Copado Deployer@19.24"
-                }
-            ],
+            "default": false
+           
         }
     ],
     "name": "Restrict_Promote",
