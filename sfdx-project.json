@@ -5,7 +5,7 @@
       "default": true,
       "dependencies": [
         {
-          "package": "Copado Deployer@19.24"
+          "package": "Copado Deployer@20.12"
         }
       ]
     }
@@ -16,7 +16,7 @@
   "sfdcLoginUrl": "https://login.salesforce.com",
   "sourceApiVersion": "55.0",
   "packageAliases": {
-    "Copado Deployer@19.24": "04t5p000000XdeT"
+    "Copado Deployer@20.12": "04t5p000000efKx"
    
   }
 
